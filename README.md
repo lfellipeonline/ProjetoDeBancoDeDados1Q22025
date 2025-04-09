@@ -20,9 +20,8 @@ Construir um banco de dados relacional normalizado até a Terceira Forma Normal 
 
 - **MySQL**
 - **Workbench** para modelagem
-- **SQL** para criação e manipulação dos dados
-- **DB Fiddle** (ambiente de testes SQL online)
 - **DB Diagram** (ferramenta visual para modelagem de banco de dados)
+- - **DB Fiddle** (ambiente de testes SQL online)
 
 ## 📐 Modelagem
 
