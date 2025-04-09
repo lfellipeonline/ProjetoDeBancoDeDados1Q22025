@@ -66,9 +66,9 @@ O projeto acompanha um relatório detalhado contendo:
 
 ## 👥 Autores
 
-Luiz Felipe Rodrigues de Melo
-Nathan Mendonça da Silva
-Carla Valéria Alves da Silva
-Ikaro Dantas Totia da Silva
-Ester Neri Vanderlei
+- Luiz Felipe Rodrigues de Melo
+- Nathan Mendonça da Silva
+- Carla Valéria Alves da Silva
+- Ikaro Dantas Totia da Silva
+- Ester Neri Vanderlei
 ---
