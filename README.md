@@ -1,7 +1,7 @@
 # ProjetoDeBancoDeDados1Q22025
 # 📦 Banco de Dados para E-commerce
 
-Projeto acadêmico de modelagem e implementação de um banco de dados relacional para um sistema de e-commerce. Desenvolvido como parte da disciplina de **Modelagem de Banco de Dados** do curso de **Análise e Desenvolvimento de Sistemas** na UNINASSAU.
+Projeto de modelagem e implementação de um banco de dados relacional para um sistema de e-commerce. Desenvolvido como parte da disciplina de **Modelagem de Banco de Dados** do curso de **Análise e Desenvolvimento de Sistemas** na UNINASSAU.
 
 ## 📚 Objetivo
 
